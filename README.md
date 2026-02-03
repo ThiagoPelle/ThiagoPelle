@@ -5,10 +5,10 @@
 
 # 👨‍💻 Thiago Pelle
 
- Olá meu nome é Thiago Pelle Costa sou Desenvolvedor Back-end 
+
+ Olá meu nome é Thiago Pelle Costa sou Desenvolvedor Back-end, sou apaixonado por tecnologia e inovação
 
 
-<p align="left">Meu nome é Thiago Pelle Costa sou desenvolvedor Back-End, sou apaixonado por tecnologia e inovação</p>
 
 ###
 
