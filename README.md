@@ -6,7 +6,7 @@
 # 👨‍💻 Thiago Pelle
 
 
- Olá meu nome é Thiago Pelle Costa sou Desenvolvedor Back-end, sou apaixonado por tecnologia e inovação
+ Olá meu nome é Thiago Pelle Costa sou Desenvolvedor Back-end sou apaixonado por tecnologia e inovação
 
 
 
