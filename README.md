@@ -50,6 +50,12 @@ Desenvolvedor com foco em Análise de Dados, aplicando Python, SQL e visualizaç
 
 ###
 
+##  Habilidades
+
+- Manipulação de dados com Pandas
+- Análise exploratória de dados
+- Visualização de dados com Matplotlib e Seaborn
+- Interpretação de dados para geração de insights
 
 
 
