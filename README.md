@@ -6,8 +6,8 @@
 # 👨‍💻 Thiago Pelle
 
 
- Olá meu nome é Thiago Pelle Costa sou Desenvolvedor Back-end sou apaixonado por tecnologia e inovação
-
+Olá meu nome é Thiago Pelle Costa sou Análista de dados e gosto bastante de tecnologia e inovação
+Desenvolvedor com foco em Análise de Dados, aplicando Python, SQL e visualização para transformar dados em decisões orientadas por informação.
 
 
 ###
