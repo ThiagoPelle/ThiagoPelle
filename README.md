@@ -32,12 +32,20 @@ Desenvolvedor com foco em Análise de Dados, aplicando Python, SQL e visualizaç
 
 ###
 
-##  Habilidades
+## 🧠 Habilidades
 
 - Manipulação de dados com Pandas
-- Análise exploratória de dados
-- Visualização de dados com Matplotlib e Seaborn
-- Interpretação de dados para geração de insights
+- Limpeza e tratamento de dados
+- Análise exploratória de dados (EDA)
+- Consultas SQL (JOIN, GROUP BY)
+- Visualização de dados (Matplotlib, Seaborn)
+- Criação de dashboards (Power BI / Excel)
+- Interpretação e geração de insights
+- Storytelling com dados
+- Automação de processos com Python
+- Desenvolvimento de APIs (backend)
+
+  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagopelle&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagopelle&layout=compact&theme=tokyonight)
