@@ -9,26 +9,8 @@
 Olá meu nome é Thiago Pelle Costa sou Análista de dados e gosto bastante de tecnologia e inovação
 
 Desenvolvedor com foco em Análise de Dados, aplicando Python, SQL e visualização para transformar dados em decisões orientadas por informação.
+<p align="left"><a href="https://www.linkedin.com/in/thiago-pelle-4b5b343a3/"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/></a><a href="https://www.facebook.com/thiago.pellecosta.1"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52"/></a><a href="mailto:thiagopellecosta2016@gmail.com"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"/></a><a href="https://www.instagram.com/thiago_pelle/"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/></a></p>
 
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/thiago-pelle-4b5b343a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/thiago.pellecosta.1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="thiagopellecosta2016@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/thiago_pelle/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 <h2 align="left">Linguagens principais</h2>
 
