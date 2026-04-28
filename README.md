@@ -40,6 +40,7 @@ Desenvolvedor com foco em Análise de Dados, aplicando Python, SQL e visualizaç
 - Interpretação de dados para geração de insights
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagopelle&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagopelle&layout=compact&theme=tokyonight)
 
 
 
