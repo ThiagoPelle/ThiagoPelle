@@ -3,10 +3,10 @@
 </div>
 
 
-# 👨‍💻 Thiago Pelle
+# 👨‍💻 Olá meu nome é Thiago Pelle Costa
 
 
-Olá meu nome é Thiago Pelle Costa sou Análista de dados e gosto bastante de tecnologia e inovação
+🚀 Transformando dados em decisões estratégicas com Python, SQL e automação.
 
 Desenvolvedor com foco em Análise de Dados, aplicando Python, SQL e visualização para transformar dados em decisões orientadas por informação.
 <p align="left"><a href="https://www.linkedin.com/in/thiago-pelle-4b5b343a3/"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/></a><a href="https://www.facebook.com/thiago.pellecosta.1"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52"/></a><a href="mailto:thiagopellecosta2016@gmail.com"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"/></a><a href="https://www.instagram.com/thiago_pelle/"><img src="https://raw.githubusercontent.com/maurodeSouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/></a></p>
@@ -39,7 +39,7 @@ Desenvolvedor com foco em Análise de Dados, aplicando Python, SQL e visualizaç
 - Visualização de dados com Matplotlib e Seaborn
 - Interpretação de dados para geração de insights
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagopelle&show_icons=true&theme=tokyonight)
 
 
 
